@@ -4,6 +4,8 @@ Você estuda na Labenu_ há tanto tempo que já parecem anos, não é? Então, h
 
 Link para documentação: https://documenter.getpostman.com/view/20354123/UzBqq5mn 📝
 
+Link para Heroku: https://system-labenu.herokuapp.com/ (as vezes funciona, as vezes não)
+
 Ele deve possuir, ao menos, as 3 entidades importantes:
 
 1. Estudantes 👨‍🎓
